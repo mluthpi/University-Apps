@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My University</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">Home</string>
+    <string name="university">University</string>
+    <string name="domain">Domain</string>
+    <string name="save_bookmark">Save Bookmark?</string>
+</resources>
